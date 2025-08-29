@@ -152,4 +152,4 @@ License information will be provided with the code release in September 2025.
 
 ---
 
-*Enabling ORB-SLAM3 deployment on embedded platforms where it was previously impossible.*
+*Enabling ORB-SLAM3 deployment on embedded platforms.*
